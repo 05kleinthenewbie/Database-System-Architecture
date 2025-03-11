@@ -52,4 +52,9 @@ Feel free to modify the code and submit pull requests!
  License
 This project is open-source. Modify and use it as needed!
 
+GROUP 4
+
+Princess Ong
+Rachelle Pateño
+
 
