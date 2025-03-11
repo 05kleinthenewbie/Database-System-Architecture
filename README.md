@@ -55,5 +55,6 @@ This project is open-source. Modify and use it as needed!
 GROUP 4
 
 Princess Ong                                                                                                                                                                  
-Rachelle Pateño                                                                                                                                                               Klein Thon Racasa
+Rachelle Pateño    
+Klein Thon Racasa
 
